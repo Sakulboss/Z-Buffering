@@ -1,0 +1,44 @@
+# Material Count: 1
+
+newmtl Red
+Ka 1.0 0.0 0.0
+Kd 1.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 1
+
+newmtl Green
+Ka 0.0 0.5 0.0
+Kd 0.0 0.5 0.0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 1
+
+newmtl Yellow
+Ka 0.5 0.5 0.0
+Kd 0.5 0.5 0.0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 1
+
+newmtl Blue
+Ka 0.0 0.0 1.0
+Kd 0.0 0.0 1.0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 1
+
+newmtl Black
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 1
+
+newmtl Textured
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 1
+map_Kd oak_texture.jpg
